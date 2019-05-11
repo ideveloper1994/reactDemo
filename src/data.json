@@ -1,0 +1,256 @@
+{
+  "data": [
+    {
+      "userId": 101,
+      "collegeId": 2,
+      "firstName": "Rahul",
+      "lastName": "Patel",
+      "userName": "rahul3434",
+      "contactNo": "+917405135918",
+      "email": "rahul@gmail.com",
+      "createdDate": "2017-05-08T06:24:13.000Z",
+      "role": true,
+      "isActive": true,
+      "College": {
+        "collegeId": 4,
+        "collegeName": "J.P. Dawar Institute of Information Science & Technology",
+        "searchKeyword": "JP(VNSGU)"
+      },
+      "result": "OK"
+    },
+    {
+      "userId": 111,
+      "collegeId": 2,
+      "firstName": "Uchita",
+      "lastName": "Pal",
+      "userName": "uchita",
+      "contactNo": "+917405135918",
+      "email": "uchita@gmail.com",
+      "createdDate": "2017-05-08T06:24:13.000Z",
+      "role": true,
+      "isActive": true,
+      "College": {
+        "collegeId": 4,
+        "collegeName": "J.P. Dawar Institute of Information Science & Technology",
+        "searchKeyword": "JP(VNSGU)"
+      },
+      "result": "Good"
+    },
+    {
+      "userId": 1,
+      "collegeId": 2,
+      "firstName": "Pintu",
+      "lastName": "Solia",
+      "userName": "pintu34",
+      "contactNo": "+917405135918",
+      "email": "pintu@gmail.com",
+      "createdDate": "2017-05-08T06:24:13.000Z",
+      "role": true,
+      "isActive": true,
+      "College": {
+        "collegeId": 2,
+        "collegeName": "Chhotubhai Gopalbhai Patel Institute of Technology",
+        "searchKeyword": "CGPIT"
+      },
+      "result": "Excellent"
+    },
+    {
+      "userId": 2,
+      "collegeId": 4,
+      "firstName": "Sonal",
+      "lastName": "Maniya",
+      "userName": "sonaldfgdgk",
+      "contactNo": "+917600431797",
+      "email": "sonal@gmail.com",
+      "createdDate": "2017-05-08T06:54:57.000Z",
+      "role": true,
+      "isActive": true,
+      "College": {
+        "collegeId": 4,
+        "collegeName": "J.P. Dawar Institute of Information Science & Technology",
+        "searchKeyword": "JP(VNSGU)"
+      },
+      "result": "Excellent"
+    },
+    {
+      "userId": 3,
+      "collegeId": 4,
+      "firstName": "Kiran",
+      "lastName": "Mali",
+      "userName": "kiran234",
+      "contactNo": "+917600431797",
+      "email": "kiran@gmail.com",
+      "createdDate": "2017-05-08T06:54:57.000Z",
+      "role": true,
+      "isActive": true,
+      "College": {
+        "collegeId": 4,
+        "collegeName": "J.P. Dawar Institute of Information Science & Technology",
+        "searchKeyword": "JP(VNSGU)"
+      },
+      "result": "Excellent"
+    },
+    {
+      "userId": 4,
+      "collegeId": 4,
+      "firstName": "Shivlal",
+      "lastName": "Kumavat",
+      "userName": "lal1234",
+      "contactNo": "+917600431797",
+      "email": "lal@gmail.com",
+      "createdDate": "2017-05-08T06:54:57.000Z",
+      "role": true,
+      "isActive": true,
+      "College": {
+        "collegeId": 4,
+        "collegeName": "J.P. Dawar Institute of Information Science & Technology",
+        "searchKeyword": "JP(VNSGU)"
+      },
+      "result": "Excellent"
+    },
+    {
+      "userId": 5,
+      "collegeId": 2,
+      "firstName": "Shubham",
+      "lastName": "M",
+      "userName": "shubham34",
+      "contactNo": "+917405135918",
+      "email": "shubham@gmail.com",
+      "createdDate": "2018-05-08T06:24:13.000Z",
+      "role": true,
+      "isActive": true,
+      "College": {
+        "collegeId": 2,
+        "collegeName": "Chhotubhai Gopalbhai Patel Institute of Technology",
+        "searchKeyword": "CGPIT"
+      },
+      "result": "Excellent"
+    },
+    {
+      "userId": 6,
+      "collegeId": 3,
+      "firstName": "Pinkal",
+      "lastName": "Patel",
+      "userName": "pinkal16195",
+      "contactNo": "+919510919293",
+      "email": "pinkal@gmail.com",
+      "createdDate": "2018-05-08T06:51:51.000Z",
+      "role": true,
+      "isActive": true,
+      "College": {
+        "collegeId": 3,
+        "collegeName": "Shrimad Rajchandra Institute of Management & Computer Application",
+        "searchKeyword": "SRIMCA"
+      },
+      "result": "Excellent"
+    },
+    {
+      "userId": 7,
+      "collegeId": 4,
+      "firstName": "Sarika",
+      "lastName": "MAru",
+      "userName": "sarika1234",
+      "contactNo": "+917600431797",
+      "email": "sarika@gmail.com",
+      "createdDate": "2018-05-08T06:54:57.000Z",
+      "role": true,
+      "isActive": true,
+      "College": {
+        "collegeId": 4,
+        "collegeName": "J.P. Dawar Institute of Information Science & Technology",
+        "searchKeyword": "JP(VNSGU)"
+      },
+      "result": "Excellent"
+    },
+    {
+      "userId": 8,
+      "collegeId": 1,
+      "firstName": "Shreya",
+      "lastName": "Shah",
+      "userName": "Shreya6996",
+      "contactNo": "+917575023603",
+      "email": "shr3yajaiin@gmail.com",
+      "createdDate": "2019-05-08T06:19:30.000Z",
+      "role": true,
+      "isActive": true,
+      "College": {
+        "collegeId": 1,
+        "collegeName": "Babu Madhav Institute of Information Technology",
+        "searchKeyword": "BMIIT"
+      },
+      "result": "Good"
+    },
+    {
+      "userId": 9,
+      "collegeId": 2,
+      "firstName": "Nivedita",
+      "lastName": "Pujari",
+      "userName": "Nivi1234",
+      "contactNo": "+917405135918",
+      "email": "nivedita@gmail.com",
+      "createdDate": "2019-05-08T06:24:13.000Z",
+      "role": true,
+      "isActive": true,
+      "College": {
+        "collegeId": 2,
+        "collegeName": "Chhotubhai Gopalbhai Patel Institute of Technology",
+        "searchKeyword": "CGPIT"
+      },
+      "result": "Excellent"
+    },
+    {
+      "userId": 10,
+      "collegeId": 3,
+      "firstName": "Shreyans",
+      "lastName": "Shah",
+      "userName": "shreyans16195",
+      "contactNo": "+919510919293",
+      "email": "shreyans@gmail.com",
+      "createdDate": "2019-05-08T06:51:51.000Z",
+      "role": true,
+      "isActive": true,
+      "College": {
+        "collegeId": 3,
+        "collegeName": "Shrimad Rajchandra Institute of Management & Computer Application",
+        "searchKeyword": "SRIMCA"
+      },
+      "result": "Excellent"
+    },
+    {
+      "userId": 11,
+      "collegeId": 1,
+      "firstName": "Tanmay",
+      "lastName": "Patel",
+      "userName": "tanmay21597",
+      "contactNo": "+919725190085",
+      "email": "tanmay@gmail.com",
+      "createdDate": "2019-05-08T06:53:39.000Z",
+      "role": true,
+      "isActive": true,
+      "College": {
+        "collegeId": 1,
+        "collegeName": "Babu Madhav Institute of Information Technology",
+        "searchKeyword": "BMIIT"
+      },
+      "result": "Excellent"
+    },
+    {
+      "userId": 12,
+      "collegeId": 4,
+      "firstName": "Henali",
+      "lastName": "Patel",
+      "userName": "honey1906",
+      "contactNo": "+917600431797",
+      "email": "henali@gmail.com",
+      "createdDate": "2019-05-08T06:54:57.000Z",
+      "role": true,
+      "isActive": true,
+      "College": {
+        "collegeId": 4,
+        "collegeName": "J.P. Dawar Institute of Information Science & Technology",
+        "searchKeyword": "JP(VNSGU)"
+      },
+      "result": "Excellent"
+    }
+  ]
+}
